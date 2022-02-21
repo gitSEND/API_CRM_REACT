@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Nelson Sánchez",
+      "empresa": "Domac",
+      "email": "n.sanchezesparza@gmail.com",
+      "telefono": "95464656",
+      "notas": "notas",
+      "id": 1
+    },
+    {
+      "nombre": "Miguel",
+      "empresa": "Miguelito Clothes",
+      "email": "email@correo.com",
+      "telefono": "9542123154",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "Edgar",
+      "empresa": "CarWash",
+      "email": "email@correo.com",
+      "telefono": "9542123154",
+      "notas": "Lavado de autos\nPulido de autos",
+      "id": 4
+    }
+  ]
+}
