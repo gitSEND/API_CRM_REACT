@@ -9,6 +9,7 @@ import VerCliente from './paginas/VerCliente';
 // https://reactrouter.com/docs/en/v6/getting-started/installation#basic-installation
 
 function App() {
+  console.log(import.meta.env.VITE_API_URL);
   return (
     <BrowserRouter>
       <Routes>
